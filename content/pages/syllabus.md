@@ -19,7 +19,7 @@ Course Packet
 
 Shapiro, C., and Varian, H., _Information Rules: A Strategic Guide to the Network Economy._ Cambridge: Harvard Business School Press, November 1, 1998. ISBN: 087584863X.
 
-{{% resource_link "99b7f749-d572-4344-93e3-acb2081f4321" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Brynjolfsson, E. and B. Kahin. {{% resource_link "99b7f749-d572-4344-93e3-acb2081f4321" "_Understanding the Digital Economy: Data, Tools, and Research_" %}}. Cambridge: MIT Press, October 16, 2000. ISBN: 0262024748.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/understanding-digital-economy) Brynjolfsson, E. and B. Kahin. [_Understanding the Digital Economy: Data, Tools, and Research_](https://mitpress.mit.edu/books/understanding-digital-economy). Cambridge: MIT Press, October 16, 2000. ISBN: 0262024748.
 
 Supplemental handouts will be distributed in class.
 
