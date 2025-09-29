@@ -5,6 +5,8 @@ description: Lecture presentation covering the change in importance of complimen
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/5f9f833e1e54c9be6c0a7d6938f11963_15575mgr_vw_firm.pdf
 file_size: 100369
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

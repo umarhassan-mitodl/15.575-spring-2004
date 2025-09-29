@@ -5,6 +5,8 @@ description: This resource explains the incentives to innovate in the face of co
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/a292e8c0a975ffe3c98bb4fba6f34db6_elydrft29apl2004.pdf
 file_size: 122220
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

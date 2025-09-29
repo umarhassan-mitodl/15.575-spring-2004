@@ -4,6 +4,8 @@ description: Lecture presentation covering the problems associated with online t
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/cf64598d0c47b912ec7dee7d938b91b4_tanu.pdf
 file_size: 325072
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

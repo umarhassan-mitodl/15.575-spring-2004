@@ -4,6 +4,8 @@ description: This resource explains the theory of making markets through interne
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/fa9de1809be9ab8f2f736d13559d3ffb_class_slides.pdf
 file_size: 92767
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

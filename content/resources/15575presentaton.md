@@ -5,6 +5,8 @@ description: This resource explains a repeated prisoner?s dilemma model of buyer
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/98e384b1d7f3d09a0480c62c2b0b6491_15575presentaton.pdf
 file_size: 133680
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
