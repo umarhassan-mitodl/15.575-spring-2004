@@ -5,8 +5,6 @@ description: This resource explains the representaion and comprehension of oppur
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/5da6b17f8a5734b6687710394b301616_eriknoyes_repres.pdf
 file_size: 205078
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

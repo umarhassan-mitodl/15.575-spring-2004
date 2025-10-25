@@ -5,8 +5,6 @@ description: This resource explains a survey of the different organizational ass
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/6ff40bbf4b2b9663194877d28a1e2468_it_intangleasst.pdf
 file_size: 88038
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

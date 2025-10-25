@@ -5,8 +5,6 @@ description: This resource deals with the analysis on switching costs through hy
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/0585e2fc66d07daf8d789547ffc02a2d_swt_cst_final_pr.pdf
 file_size: 101229
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

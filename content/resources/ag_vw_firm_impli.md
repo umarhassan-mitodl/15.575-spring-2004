@@ -5,8 +5,6 @@ description: Lecture presentation covering ways to view the firm and implication
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/d78ce15f90c550741baad48e17ca1b0c_ag_vw_firm_impli.pdf
 file_size: 171080
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
