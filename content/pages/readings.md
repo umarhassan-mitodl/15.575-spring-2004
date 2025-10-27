@@ -51,7 +51,7 @@ Shapiro, C., and H. Varian. "Pricing Information." In _Information Rules: A Stra
 
 Shapiro, C., and H. Varian. "Versioning Information." In _Information Rules: A Strategic Guide to the Network Economy._ Cambridge, MA: Harvard Business School Press, 1998, Chapter 3. ISBN: 087584863X.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/theory-industrial-organization) Tirole, J. "Price Discrimination." In [_The Theory of Industrial Organization_](https://mitpress.mit.edu/books/theory-industrial-organization). Cambridge, MA: MIT Press, 1989, pp. 133-148, 150-152. ISBN: 0262200716.
+{{% resource_link "0530af2a-85e4-41e6-9207-ff21065383bc" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tirole, J. "Price Discrimination." In {{% resource_link "0530af2a-85e4-41e6-9207-ff21065383bc" "_The Theory of Industrial Organization_" %}}. Cambridge, MA: MIT Press, 1989, pp. 133-148, 150-152. ISBN: 0262200716.
 
 
 {{< tdclose >}}
@@ -67,7 +67,7 @@ Pricing Information ({{% resource_link d1cf8a18-fb7d-a1ad-c59d-cecbc6def051 "PDF
 {{< tdopen >}}
 _Required Readings_
 
-Lyman, P., and H. Varian, "[How Much Information - Executive Summary](http://groups.ischool.berkeley.edu/archive/how-much-info-2003/)," 2003.
+Lyman, P., and H. Varian, "{{% resource_link "41956f6c-bee1-48ea-891e-ca7337b93569" "How Much Information - Executive Summary" %}}," 2003.
 
 Liebowitz, S. "Copying and Indirect Appropriability: Photocopying of Journals." _Journal of Political Economy_ 93, no. 5 (1985): 945-957.
 
@@ -147,7 +147,7 @@ Lynch, J., and D. Ariely. "Wine Online: Search Costs and Competition on Price, Q
 
 Goolsbee, A. "Competition in the Computer Industry: Online vs. Retail." _Journal of Industrial Economics_ 49, no. 4 (2001): 487-499.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/understanding-digital-economy) Smith, M., J. Bailey, and E. Brynjolfsson. "Understanding Digital Markets: Review and Assessment." In [_Understanding the Digital Economy_](https://mitpress.mit.edu/books/understanding-digital-economy). Edited by E. Brynjolfsson and B. Kahin. Cambridge, MA: MIT Press, 2000, pp. 99-136. ISBN: 0262024748.
+{{% resource_link "b1390105-8261-4368-8b1c-733cafaf0bd7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Smith, M., J. Bailey, and E. Brynjolfsson. "Understanding Digital Markets: Review and Assessment." In {{% resource_link "b1390105-8261-4368-8b1c-733cafaf0bd7" "_Understanding the Digital Economy_" %}}. Edited by E. Brynjolfsson and B. Kahin. Cambridge, MA: MIT Press, 2000, pp. 99-136. ISBN: 0262024748.
 
 Brynjolfsson, E., and M. Smith. "The Great Equalizer? Consumer Choice Behavior at Internet Shopbots." Working Paper, MIT Sloan School of Management, July 2000.
 
